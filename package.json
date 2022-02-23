@@ -6,5 +6,8 @@
   "repository": "https://github.com/GlitchMasta47/sacrp-map.git/",
   "author": "GlitchMasta47",
   "license": "GPL-3.0",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  }
 }
