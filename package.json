@@ -2,7 +2,11 @@
   "name": "sacrp-map",
   "version": "1.0.0",
   "description": "Interactive map for SACRP - useful for dispatchers and new players",
-  "main": "index.html",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel serve",
+    "build": "parcel build"
+  },
   "repository": "https://github.com/GlitchMasta47/sacrp-map.git/",
   "author": "GlitchMasta47",
   "license": "GPL-3.0",
