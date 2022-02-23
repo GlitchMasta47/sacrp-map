@@ -12,6 +12,10 @@
   "license": "GPL-3.0",
   "private": false,
   "devDependencies": {
+    "@types/leaflet": "^1.7.9",
     "parcel": "^2.3.2"
+  },
+  "dependencies": {
+    "leaflet": "^1.7.1"
   }
 }
